@@ -1,4 +1,4 @@
-public class JavaBean {
+public class Event {
     String name;
     String action;
 }
